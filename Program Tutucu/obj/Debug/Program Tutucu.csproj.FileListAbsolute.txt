@@ -1,0 +1,9 @@
+F:\visual studio 2010\Projects\harici_calisma\Program Tutucu\Program Tutucu\bin\Debug\Program Tutucu.exe.config
+F:\visual studio 2010\Projects\harici_calisma\Program Tutucu\Program Tutucu\bin\Debug\Program Tutucu.exe
+F:\visual studio 2010\Projects\harici_calisma\Program Tutucu\Program Tutucu\bin\Debug\Program Tutucu.pdb
+F:\visual studio 2010\Projects\harici_calisma\Program Tutucu\Program Tutucu\obj\Debug\Program Tutucu.csprojResolveAssemblyReference.cache
+F:\visual studio 2010\Projects\harici_calisma\Program Tutucu\Program Tutucu\obj\Debug\Program_Tutucu.Form1.resources
+F:\visual studio 2010\Projects\harici_calisma\Program Tutucu\Program Tutucu\obj\Debug\Program_Tutucu.Properties.Resources.resources
+F:\visual studio 2010\Projects\harici_calisma\Program Tutucu\Program Tutucu\obj\Debug\Program Tutucu.csproj.GenerateResource.Cache
+F:\visual studio 2010\Projects\harici_calisma\Program Tutucu\Program Tutucu\obj\Debug\Program Tutucu.exe
+F:\visual studio 2010\Projects\harici_calisma\Program Tutucu\Program Tutucu\obj\Debug\Program Tutucu.pdb
